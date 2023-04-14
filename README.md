@@ -1,7 +1,7 @@
 <h1>Ayush Sagar</h1>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/ayush-sagar">
+  <a href="https://linkedin.com/in/ayush-sagar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCsvyyiWlzbZjZD22__wJuOA">
